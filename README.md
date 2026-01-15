@@ -3,7 +3,7 @@
 -Project Summary
 This project is an accounting-focused SQL analytics project built using public City of Detroit Accounts Payable payment data and procurement agreement (contract) data.
 
-The goal is to simulate an **Accounts Payable / Procurement audit analytics workflow similar to what an accounting intern or entry-level analyst would do in a real organization:
+The goal is to simulate an Accounts Payable / Procurement audit analytics workflow similar to what an accounting intern or entry-level analyst would do in a real organization:
 - identify unusual payment behavior
 - spot duplicate payment patterns
 - highlight transactions that may avoid approval thresholds
@@ -195,5 +195,6 @@ What This Project Demonstrates
 - Data cleaning (dates, currency fields, null handling)
 - Building analytics tables and audit-style queries
 - Risk monitoring concepts used in AP / procurement analytics
+
 
 
