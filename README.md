@@ -10,6 +10,19 @@ The goal is to simulate an **Accounts Payable / Procurement audit analytics work
 - compare vendor payments vs. contract values
 - create a simple **vendor risk scoring** model to prioritize review
 
+Data Sources
+
+Raw datasets for this project were obtained from the City of Detroit Open Data Portal:
+Payments Data
+- **Open Checkbook Payments — Contains detailed AP payment records  
+  https://data.detroitmi.gov/datasets/open-checkbook-payments
+
+Procurement Contracts
+- OCP Procurement Agreements — Contains procurement agreement/contract details  
+  https://data.detroitmi.gov/datasets/ocp-procurement-agreements
+
+Due to file size limits, raw CSV downloads are linked above rather than included in this repository.
+
 Demonstrate skills relevant roles involving:
 - AP reporting
 - procurement analytics
@@ -182,4 +195,5 @@ What This Project Demonstrates
 - Data cleaning (dates, currency fields, null handling)
 - Building analytics tables and audit-style queries
 - Risk monitoring concepts used in AP / procurement analytics
+
 
